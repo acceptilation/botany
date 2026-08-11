@@ -1,0 +1,4 @@
+# used by `zensical.yaml` to install Python dependencies
+# used by `actions/setup-python` to cache dependencies
+
+zensical
