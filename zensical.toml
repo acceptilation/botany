@@ -1,107 +1,61 @@
 [project]
-site_url = "https://www.example.com/"
-site_name = "Documentation"
-# site_description = "Your project description"
-# site_author = "Your name"
-
-# copyright = "Copyright &copy; 2026 Your name"
-
-# repo_url = "https://github.com/user/repo"
-# repo_name = "user/repo"
-# edit_uri = "edit/main/docs/"
+site_url = "https://acceptilation.github.io/botany/"
+site_name = "Botany: A Victorian Expedition"
+site_description = "A conversion of the official rules from PDF to Markdown"
+site_author = "Acceptilation"
+copyright = "Botany: A Victorian Expedition by <a href=\"https://duxsomnium.com/\">Dux Somnium</a>"
 
 nav = [
-  { "Get started" = "index.md" },
-  { "Markdown in 5min" = "markdown.md" },
+  { "Botany: A Victorian Expedition" = "index.md" },
+  { "A Plant Hunter!" = "plant-hunter.md" },
 ]
 
-# extra_css = ["stylesheets/extra.css"]
-# extra_javascript = ["javascripts/extra.js"]
-
 [project.theme]
-# variant = "classic"
-# custom_dir = "overrides"
-# favicon = "images/favicon.png"
+favicon = "tulip.png"
 language = "en"
 features = [
-  "announce.dismiss",
-  # "content.action.edit",
-  # "content.action.view",
-  "content.code.annotate",
-  "content.code.copy",
-  "content.code.select",
-  "content.footnote.tooltips",
-  "content.tabs.link",
-  "content.tooltips",
-  # "header.autohide",
-  # "navigation.expand",
-  "navigation.footer",
   "navigation.indexes",
   "navigation.instant",
   "navigation.instant.prefetch",
-  # "navigation.instant.progress",
   "navigation.path",
-  # "navigation.prune",
   "navigation.sections",
-  # "navigation.tabs",
-  # "navigation.tabs.sticky",
-  "navigation.top",
   "navigation.tracking",
-  "search.highlight",
-  # "toc.follow",
-  # "toc.integrate",
+  "search.highlight"
 ]
-
-# logo = "assets/logo.png"
-
-# [project.theme.icon]
-# logo = "lucide/smile"
-
-# [project.theme.font]
-# text = "Inter"
-# code = "Jetbrains Mono"
-
-[[project.theme.palette]]
-media = "(prefers-color-scheme)"
-toggle.icon = "lucide/sun-moon"
-toggle.name = "Switch to light mode"
+logo = "tulip.png"
 
 [[project.theme.palette]]
 media = "(prefers-color-scheme: light)"
 scheme = "default"
+primary = "pink"
+accent = "green"
 toggle.icon = "lucide/sun"
 toggle.name = "Switch to dark mode"
 
 [[project.theme.palette]]
 media = "(prefers-color-scheme: dark)"
 scheme = "slate"
+primary = "pink"
+accent = "green"
 toggle.icon = "lucide/moon"
-toggle.name = "Switch to system preference"
-
-# [[project.extra.social]]
-# icon = "fontawesome/brands/github"
-# link = "https://github.com/user/repo"
-
-# [[project.extra.social]]
-# icon = "fontawesome/brands/mastodon"
-# link = "https://fosstodon.org/@user"
+toggle.name = "Switch to light mode"
 
 [project.markdown_extensions]
-abbr = {}
-admonition = {}
-attr_list = {}
-def_list = {}
-footnotes = {}
-md_in_html = {}
+abbr = { }
+admonition = { }
+attr_list = { }
+def_list = { }
+footnotes = { }
+md_in_html = { }
 toc = {
   permalink = true
 }
 pymdownx.arithmatex = {
   generic = true
 }
-pymdownx.betterem = {}
-pymdownx.caret = {}
-pymdownx.details = {}
+pymdownx.betterem = { }
+pymdownx.caret = { }
+pymdownx.details = { }
 pymdownx.emoji = {
   emoji_generator = "zensical.extensions.emoji.to_svg",
   emoji_index = "zensical.extensions.emoji.twemoji",
@@ -111,11 +65,11 @@ pymdownx.highlight = {
   line_spans = "__span",
   pygments_lang_class = true,
 }
-pymdownx.inlinehilite = {}
-pymdownx.keys = {}
-pymdownx.magiclink = {}
-pymdownx.mark = {}
-pymdownx.smartsymbols = {}
+pymdownx.inlinehilite = { }
+pymdownx.keys = { }
+pymdownx.magiclink = { }
+pymdownx.mark = { }
+pymdownx.smartsymbols = { }
 # pymdownx.snippets = {
 #   base_path = "includes",
 # }
@@ -135,4 +89,4 @@ pymdownx.tabbed = {
 pymdownx.tasklist = {
   custom_checkbox = true
 }
-pymdownx.tilde = {}
+pymdownx.tilde = { }
