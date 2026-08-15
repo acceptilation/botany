@@ -11,6 +11,5 @@ permissions:
   id-token: write
 
 jobs:
-  deploy:
-    name: deploy
+  call-external:
     uses: acceptilation/actions/.github/workflows/zensical.yaml@main
