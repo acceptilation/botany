@@ -10,6 +10,7 @@ nav = [
   { "A Plant Hunter!" = "plant-hunter.md" },
   { "Game Components" = "game-components.md" },
   { "Game Board Setup" = "game-board-setup.md" },
+  { "Player Setup" = "player-setup.md" },
 ]
 
 [project.theme]
