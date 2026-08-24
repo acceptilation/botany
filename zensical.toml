@@ -9,6 +9,7 @@ nav = [
   { "Botany: A Victorian Expedition" = "index.md" },
   { "A Plant Hunter!" = "plant-hunter.md" },
   { "Game Components" = "game-components.md" },
+  { "Game Board Setup" = "game-board-setup.md" },
 ]
 
 [project.theme]
