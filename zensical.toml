@@ -8,6 +8,7 @@ copyright = "Botany: A Victorian Expedition by <a href=\"https://duxsomnium.com/
 nav = [
   { "Botany: A Victorian Expedition" = "index.md" },
   { "A Plant Hunter!" = "plant-hunter.md" },
+  { "Game Components" = "game-components.md" },
 ]
 
 [project.theme]
