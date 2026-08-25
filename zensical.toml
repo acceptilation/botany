@@ -18,6 +18,7 @@ nav = [
 favicon = "tulip.png"
 language = "en"
 features = [
+  "navigation.footer",
   "navigation.indexes",
   "navigation.instant",
   "navigation.instant.prefetch",
