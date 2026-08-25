@@ -11,6 +11,7 @@ nav = [
   { "Game Components" = "game-components.md" },
   { "Game Board Setup" = "game-board-setup.md" },
   { "Player Setup" = "player-setup.md" },
+  { "Expedition & Character Cards" = "expedition-and-character-cards.md" },
   { "Tips" = "tips.md" }
 ]
 
