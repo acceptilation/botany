@@ -12,6 +12,7 @@ nav = [
   { "Game Board Setup" = "game-board-setup.md" },
   { "Player Setup" = "player-setup.md" },
   { "Expedition & Character Cards" = "expedition-and-character-cards.md" },
+  { "Playing the Game" = "playing-the-game.md" },
   { "Tips" = "tips.md" },
   { "Historical Note" = "historical-note.md" }
 ]
