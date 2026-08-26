@@ -76,29 +76,30 @@ you cannot draw an Event card later that turn.
 
 ### Resolving an event card
 
-- Roll 1 die:
-  Check the event's skill type,
-  then roll 1 die.
-- Tally points:
-  Add the number on the die to any bonuses received from your cards.
-- Resolve the event:
-  Match the total value of your roll to the effects listed on the card.
-  Read the corresponding story text
-  and apply the appropriate effect.
-- Note:
-  If you are instructed to lose a coin
-  but have none,
-  follow the rules for discarding items
-  (see "Pay 1 Coin," above).
-  If you are instructed to gain an Expedition card
-  but there are no cards of the indicated type
-  (Item,
-  Crew,
-  Pet,
-  etc.)
-  in the face-up Expedition area,
-  draw cards from the Expedition deck until you find the correct card type.
-  Reshuffle the deck.
+1. Roll 1 die:
+   Check the event's skill type,
+   then roll 1 die.
+2. Tally points:
+   Add the number on the die to any bonuses received from your cards.
+3. Resolve the event:
+   Match the total value of your roll to the effects listed on the card.
+   Read the corresponding story text
+   and apply the appropriate effect.
+
+Note:
+If you are instructed to lose a coin
+but have none,
+follow the rules for discarding items
+(see "Pay 1 Coin," above).
+If you are instructed to gain an Expedition card
+but there are no cards of the indicated type
+(Item,
+Crew,
+Pet,
+etc.)
+in the face-up Expedition area,
+draw cards from the Expedition deck until you find the correct card type.
+Reshuffle the deck.
 
 ### Resolving a world event card
 
