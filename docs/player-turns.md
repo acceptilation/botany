@@ -147,6 +147,11 @@ if your pawn enters the Estate space.
 You cannot move again that turn.
 (See the "When Returning to the Estate Space" page 13.)
 
+!!! Tip
+
+    If you don't want to place a poisonous specimen in your Wardian case,
+    you can press it to make it worth 1 point.
+
 ### Specimen card
 
 - Point value:
@@ -187,7 +192,8 @@ OR
   Then,
   place your newly acquired Specimen card in your Wardian Case.
 
-Note: If you do not have room in a Wardian Case
+Note:
+If you do not have room in a Wardian Case
 and you do not wish to place a specimen in your Botanical Press,
 you may not acquire a specimen.
 In this case, any Specimen cards will remain in your hand until later acquired
@@ -195,3 +201,9 @@ or discarded.
 
 If you did not draw an Event card during Step 2,
 you must draw one the first time you acquire a specimen that turn.
+
+!!! Tip
+
+    Having additional Wardian Cases will let you take longer,
+    more bountiful expeditions.
+    The pack mule Expedition card also lets you carry 1 more live specimen per Wardian Case.

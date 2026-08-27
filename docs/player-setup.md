@@ -53,3 +53,9 @@ then draw back up to the full hand size.
 Each player rolls 1 die.
 The player with the highest value rolled goes first,
 then play proceeds in clockwise order.
+
+!!! Tip
+
+    If you discard,
+    try to hold on to Specimen cards that are near each other on the map.
+    This will make your expedition more efficient.
