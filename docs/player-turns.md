@@ -206,4 +206,63 @@ you must draw one the first time you acquire a specimen that turn.
 
     Having additional Wardian Cases will let you take longer,
     more bountiful expeditions.
-    The pack mule Expedition card also lets you carry 1 more live specimen per Wardian Case.
+    The Pack Mule Expedition card also lets you carry 1 more live specimen per Wardian Case.
+
+### Wardian Case
+
+- Transportation:
+  While on expedition,
+  you may hold 3 live specimens in each Wardian Case you own.
+- Cost:
+  This is the price in coins you must pay to purchase the card.
+
+### Botanical Press
+
+- Transportation:
+  You may carry any number of Specimen cards in your Botanical Press.
+  Each pressed specimen is worth 1 point at the end of the game
+  (regardless of their original value,
+  including poisonous specimens).
+
+### Example of movement & specimen acquisition
+
+Ronan's pawn is currently in Ethiopia,
+and can move up to 3 spaces.
+His Primrose Specimen card corresponds to West Africa,
+and his Dagger-leaf Protea Specimen card corresponds to Cape Colony.
+Ronan first moves 1 space to Cape Colony,
+acquiring the Dagger-leaf Protea specimen
+and placing it in his Wardian Case.
+He gains 1 Expedition card from the specimen's "When Acquired" ability.
+He has 2 spaces of movement left,
+so he moves to Lower Guinea
+and then West Africa,
+where he acquires the Primrose specimen
+and places it in his Wardian Case.
+
+## 4. Draw
+
+When you are done moving
+and acquiring specimens,
+draw cards from the top of the Specimen deck until you have a total of 4 Specimen cards
+(or more, if permitted)
+in your hand.
+If you draw a Specimen card for your current location,
+you must wait until the next turn to acquire it.
+
+## 5. Gain Estate Income
+
+Your reputation determines how much Estate Income you will gain.
+Check the location of your pawn on the Reputation Tracker.
+
+1-3 reputation:
+Gain 1 coin
+and place it on the Estate Income spot of your Estate board.
+
+4-8 reputation:
+Gain 2 coins
+and place them on the Estate Income spot of your Estate board.
+
+9-12 reputation:
+Gain 3 coins
+and place them on the Estate Income spot of your Estate board.
