@@ -165,3 +165,33 @@ You cannot move again that turn.
   while in Wardian Case,
   when acquired,
   etc.).
+
+### Acquiring specimens
+
+When you acquire a Specimen,
+you may place it in your Wardian Case if there is enough room --
+each Wardian Case may hold up to 3 cards at a time.
+If you do not have enough room,
+you may either:
+
+- Place the specimen in your Botanical Press.
+  These specimens will be placed in the "Pressed Specimens" section of your Estate board
+  and will each be worth 1 point at the end of the game.
+  (See the "When Returning to the Estate space, page 13").
+
+OR
+
+- Replace a specimen in one of your Wardian Cases.
+  Choose a specimen currently in one of your cases
+  and place it in your Botanical Press.
+  Then,
+  place your newly acquired Specimen card in your Wardian Case.
+
+Note: If you do not have room in a Wardian Case
+and you do not wish to place a specimen in your Botanical Press,
+you may not acquire a specimen.
+In this case, any Specimen cards will remain in your hand until later acquired
+or discarded.
+
+If you did not draw an Event card during Step 2,
+you must draw one the first time you acquire a specimen that turn.
