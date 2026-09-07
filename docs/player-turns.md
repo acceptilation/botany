@@ -266,3 +266,51 @@ and place them on the Estate Income spot of your Estate board.
 9-12 reputation:
 Gain 3 coins
 and place them on the Estate Income spot of your Estate board.
+
+## 6. Buy
+
+You may purchase a maximum of 1 card each turn.
+You may buy before you draw an Event card
+OR at the end of your turn.
+Return the coins paid to the supply
+and take the purchased card.
+While on expedition,
+you may only purchase Expedition cards,
+and you must pay for them with coins from your Expedition Fund.
+Place the card in your Expedition area.
+If you are on the Estate space,
+you may purchase a Garden Feature instead,
+placing it on your Estate board
+(see next page).
+Be sure to check your other cards for possible discounts!
+You may purchase:
+
+### Expedition cards
+
+You may purchase a face-up Expedition card for its coin cost
+OR you may pay 2 coins to purchase the top card of the Expedition deck.
+If you bought a face-up card,
+draw a new Expedition card
+and place it face-up on the empty board space.
+If you have multiple Expedition cards with the same effect,
+you may use each card's ability cumulatively.
+
+### Garden Feature cards
+
+You may only purchase a Garden Feature when you are on the Estate space,
+and only once per visit
+-- to purchase another Garden Feature,
+you must leave
+and then return to the Estate space.
+Note that many Garden Feature cards have a purchase requirement.
+
+### Garden Feature card
+
+- Point value:
+  These points are added to your score at the end of the game.
+- Reputation:
+  The amount of reputation gained (if any) upon purchase.
+- Purchase requirement:
+  The number of live specimens you must have on your Estate board before purchasing this card.
+- Cost:
+  This is the price in coins you must pay to purchase the card.
