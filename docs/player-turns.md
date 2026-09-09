@@ -298,8 +298,8 @@ you may use each card's ability cumulatively.
 ### Garden Feature cards
 
 You may only purchase a Garden Feature when you are on the Estate space,
-and only once per visit
--- to purchase another Garden Feature,
+and only once per visit --
+to purchase another Garden Feature,
 you must leave
 and then return to the Estate space.
 Note that many Garden Feature cards have a purchase requirement.

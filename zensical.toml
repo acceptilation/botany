@@ -13,7 +13,8 @@ nav = [
   { "Player Setup" = "player-setup.md" },
   { "Expedition & Character Cards" = "expedition-and-character-cards.md" },
   { "Playing the Game" = "playing-the-game.md" },
-  { "Player Turns" = "player-turns.md" }
+  { "Player Turns" = "player-turns.md" },
+  { "The Estate Space" = "estate-space.md" }
 ]
 
 [project.theme]
