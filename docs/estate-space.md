@@ -50,7 +50,7 @@ or ability allows you to do so.
 
 !!! Tip
 
-    By purchasing a poisonous path garden feature,
+    By purchasing a poisonous path Garden Feature,
     you can turn all negative specimens in your estate into positive specimens.
 
 ### Are the poisonous specimens actually poisonous in real life?
