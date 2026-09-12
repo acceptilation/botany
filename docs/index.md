@@ -1,5 +1,10 @@
 # Botany: A Victorian Expedition - Rules of Play
 
+![QR code linking to this page](./qr-code.png)
+/// caption
+Scan this QR code for a link to this page
+///
+
 ## Overview
 
 Players assume the roles of Victorian-era plant hunters,
