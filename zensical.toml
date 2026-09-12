@@ -15,7 +15,8 @@ nav = [
   { "Playing the Game" = "playing-the-game.md" },
   { "Player Turns" = "player-turns.md" },
   { "The Estate Space" = "estate-space.md" },
-  { "Ending the Game" = "ending-the-game.md" }
+  { "Ending the Game" = "ending-the-game.md" },
+  { "Solo Mode Rules" = "solo-mode.md" }
 ]
 
 [project.theme]
