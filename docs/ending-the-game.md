@@ -50,3 +50,12 @@ the win is shared.
 To the winner(s):
 good show,
 old chuckaboo!
+
+## Scoring example
+
+Live Specimen points: 27  
+Pressed Specimen points: 4  
+Garden Feature points: 5  
+Bonus card points: 4
+
+Total: 40
